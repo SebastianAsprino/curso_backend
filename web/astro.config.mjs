@@ -4,25 +4,18 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://innova.asprino.dev',
 	integrations: [
 		starlight({
-			title: 'Curso Backend Innova',
-			social: {
-				github: 'https://github.com/withastro/starlight',
+			title: 'Curso Backend',
+			logo: {
+				src: './src/assets/innova.svg',
 			},
-			sidebar: [
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
-			],
+			social: {
+				github: 'https://github.com/SebastianAsprino/curso_backend',
+				linkedin:'https://www.linkedin.com/in/sebastian-alejandro-asprino-ortiz-432075249/',
+				"x.com":'https://x.com/Seb_Asp'
+			},
 		}),
 	],
 });
