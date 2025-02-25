@@ -13,9 +13,8 @@ export default defineConfig({
 				src: './src/assets/innova.svg',
 			},
 			social: {
-				github: 'https://github.com/SebastianAsprino/curso_backend',
-				linkedin:'https://www.linkedin.com/in/sebastian-alejandro-asprino-ortiz-432075249/',
-				"x.com":'https://x.com/Seb_Asp'
+				github: 'https://github.com/Innova-Uninorte',
+				instagram: 'https://www.instagram.com/innova_uninorte/'
 			},
 			plugins: [
 				ion()
