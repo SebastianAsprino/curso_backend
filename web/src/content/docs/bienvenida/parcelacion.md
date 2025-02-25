@@ -1,5 +1,5 @@
 ---
-title: parcelacion
+title: Parcelacion
 description: Estructura y Contenido para los Cursos de Backend.
 ---
 
