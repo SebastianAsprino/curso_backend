@@ -1,13 +1,15 @@
 import { Elysia, t } from 'elysia';
 
+// interfaz de la ruta post
 const UserBody = t.Object({
 	name: t.String(),
 	email: t.String()
 })
 
+// interfaz de la ruta put
 const UserBodyPut = t.Object({
-	name: t.Optional(t.String()), // name es opcional
-	email: t.Optional(t.String()) // email es opcional
+	name: t.Optional(t.String()),
+	email: t.Optional(t.String())
 });
 
 // Base de datos en memoria para almacenar usuarios
