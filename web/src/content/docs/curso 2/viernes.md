@@ -167,12 +167,3 @@ urlpatterns = [
 3. **DELETE Curso:**  
    `DELETE http://localhost:8000/cursos/3/`
 ```
-
-Este formato incluye:
-1. Diagramas visuales para mejor comprensión
-2. Ejemplos prácticos con sintaxis real
-3. Flujos de trabajo detallados
-4. Componentes interactivos (mermaid)
-5. Ejercicios listos para implementar
-
-¿Necesitas que profundice en algún tema específico o ajustar el estilo visual?
