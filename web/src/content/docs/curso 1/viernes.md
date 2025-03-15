@@ -19,8 +19,14 @@ están implementados internamente.
 ***
 ---
 #### representacion grafica
-![grafico animado de como se comunican los servidores segun su tipo](../../../assets/1703776643037.gif)
+![Grafico animado de como se comunican los servidores segun su tipo](../../../assets/1703776643037.gif)
 
+## Ejemplo de una api rest implementada con microservicios
+![Grafico de como netflix funciona a nivel de infraestructura](../../../assets/1694984950086.gif)
+Esta es una grafica de como netflix gestiona sus servicios viendo que tiene muchas apis siendo la principal un aapi en java spring boot y la de video con amazon S3.
 
+## Ejemplo de una API híbrida entre monolito y microservicios
 
+![Gráfico de cómo Discord funciona a nivel de infraestructura](../../../assets/1_mdYzP6htH1cZfnoVc1WetQ.webp)
 
+Esta es una representación gráfica de cómo la API principal de Discord, desarrollada en Python, se comunica con un balanceador de carga escrito en Rust. Este, a su vez, interactúa con un sistema distribuido basado en ScyllaDB, la base de datos encargada de gestionar los mensajes de los usuarios.
