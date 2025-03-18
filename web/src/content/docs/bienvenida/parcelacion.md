@@ -110,3 +110,9 @@ Enseñar el proceso de despliegue de una API en un entorno de producción.
    
 ### Duración Estimada   
 - Cada curso puede durar entre 30 minutos y 1 hora, dependiendo del ritmo de los estudiantes.   
+
+---
+
+### Enlace a la clase grabada y a la transcripción. 
+
+[Onedrive](https://uninorte-my.sharepoint.com/:f:/g/personal/asprinos_uninorte_edu_co/Et-m3TfGKoxGuQ4VldDmms8BZc54a23Tc1EZIRjr3RvtGA?e=WnDo8d)

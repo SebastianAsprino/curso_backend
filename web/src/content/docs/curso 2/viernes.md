@@ -165,5 +165,11 @@ urlpatterns = [
    ```
 
 3. **DELETE Curso:**  
+```
    `DELETE http://localhost:8000/cursos/3/`
 ```
+---
+
+### Enlace a la clase grabada y a la transcripción. 
+
+[Onedrive](https://uninorte-my.sharepoint.com/:f:/g/personal/asprinos_uninorte_edu_co/Et-m3TfGKoxGuQ4VldDmms8BZc54a23Tc1EZIRjr3RvtGA?e=WnDo8d)
